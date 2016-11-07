@@ -3,7 +3,13 @@ import ReactDOM from 'react-dom';
 
 class C extends React.Component {
   render() {
-    return <h1>C</h1>
+
+    console.log('test?');
+    console.log('test!');
+
+    // chees = cheese;
+
+    return <h1>C</h1>;
   }
 }
 
